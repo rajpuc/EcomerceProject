@@ -1,4 +1,4 @@
-import Layout from "../components/layout/layout.jsx";
+import Layout from "../components/layout/Layout.jsx";
 import ProfileForm from "../components/user/Profile-Form.jsx";
 const ProfilePage = () => {
 

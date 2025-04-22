@@ -1,5 +1,5 @@
 import Details from "../components/product/details.jsx";
-import Layout from "../components/layout/layout.jsx";
+import Layout from "../components/layout/Layout.jsx";
 import {useParams} from "react-router-dom";
 import Brands from "../components/product/brands.jsx";
 import ProductStore from "../store/ProductStore.js";
