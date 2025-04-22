@@ -6,7 +6,7 @@ import UserStore from "../../store/UserStore.js";
 import UserSubmitButton from "../user/UserSubmitButton.jsx";
 import CartStore from "../../store/CartStore.js";
 import WishStore from "../../store/WishStore.js";
-
+//hi there
 const AppNavBar = () => {
     const {SetSearchKeyword,SearchKeyword}=ProductStore();
     const {isLogin,UserLogoutRequest}=UserStore();
